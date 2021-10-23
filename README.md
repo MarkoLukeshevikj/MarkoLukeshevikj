@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarkoLukeshevikj
 - 👀 I’m interested in Front End Development, Web Design.
 - 🌱 I’m currently learning Front end development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 email: marko.lukesevik@hotmail.com, marko.lukesevik@protonmail.com. phone: +389 072 226 363
   
 
